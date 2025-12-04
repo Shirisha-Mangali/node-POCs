@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1764587666028,
+      "title": "First Post",
+      "content": "This is my first post"
+    },
+    {
+      "id": 1764588845903,
+      "title": "Hello",
+      "content": "Testing"
+    },
+    {
+      "id": 1764589060439,
+      "title": "abcd",
+      "content": "xyz"
+    }
+  ]
+}

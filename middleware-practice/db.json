@@ -1,0 +1,14 @@
+{
+  "products": [],
+  "categories": [
+    {
+      "id": "cat_XOa5Mldj",
+      "name": "abcd"
+    },
+    {
+      "id": "cat_NEbP_Prg",
+      "name": "xyz"
+    }
+  ],
+  "users": []
+}
